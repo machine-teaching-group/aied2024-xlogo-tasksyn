@@ -1,0 +1,583 @@
+{
+  "1": {
+    "constraints": []
+  },
+  "2": {
+    "constraints": []
+  },
+  "3": {
+    "constraints": []
+  },
+  "4": {
+    "constraints": []
+  },
+  "5": {
+    "constraints": []
+  },
+  "6": {
+    "constraints": []
+  },
+  "7": {
+    "constraints": []
+  },
+  "8": {
+    "constraints": []
+  },
+  "9a": {
+    "constraints": []
+  },
+  "9b": {
+    "constraints": []
+  },
+  "10a": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 2
+        }
+      }
+    ]
+  },
+  "10b": {
+    "constraints": [
+      {
+        "exactly": {
+          "bk": 0
+        }
+      }
+    ]
+  },
+  "11": {
+    "constraints": [
+      {
+        "exactly": {
+          "fd": 2,
+          "rt": 1,
+          "all": 3
+        }
+      }
+    ]
+  },
+  "12a": {
+    "constraints": [
+      {
+        "start_by": [
+          "fd"
+        ]
+      }
+    ]
+  },
+  "12b": {
+    "constraints": [
+      {
+        "start_by": [
+          "lt"
+        ]
+      }
+    ]
+  },
+  "13": {
+    "constraints": []
+  },
+  "14": {
+    "constraints": []
+  },
+  "15": {
+    "constraints": []
+  },
+  "16": {
+    "constraints": []
+  },
+  "17a": {
+    "constraints": [
+      {
+        "start_by": [
+          "fd",
+          "fd",
+          "rt"
+        ]
+      }
+    ]
+  },
+  "17b": {
+    "constraints": [
+      {
+        "start_by": [
+          "fd",
+          "fd",
+          "lt"
+        ]
+      }
+    ]
+  },
+  "18a": {
+    "constraints": []
+  },
+  "18b": {
+    "constraints": [
+      {
+        "exactly": {
+          "lt": 1
+        }
+      }
+    ]
+  },
+  "19": {
+    "constraints": []
+  },
+  "20": {
+    "constraints": []
+  },
+  "21": {
+    "constraints": []
+  },
+  "22": {
+    "constraints": []
+  },
+  "23": {
+    "constraints": []
+  },
+  "24": {
+    "constraints": []
+  },
+  "25": {
+    "constraints": []
+  },
+  "26": {
+    "constraints": []
+  },
+  "27": {
+    "constraints": []
+  },
+  "28": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "29": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "30": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "31": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "32": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "33": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "34": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "35": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "36": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "37": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "38": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "39": {
+    "constraints": [
+      {
+      }
+    ]
+  },
+  "40a": {
+    "constraints": []
+  },
+  "40b": {
+    "constraints": []
+  },
+  "40c": {
+    "constraints": []
+  },
+  "41": {
+    "constraints": []
+  },
+  "42": {
+    "constraints": []
+  },
+  "43": {
+    "constraints": []
+  },
+  "44": {
+    "constraints": []
+  },
+  "45": {
+    "constraints": []
+  },
+  "46": {
+    "constraints": []
+  },
+  "47": {
+    "constraints": []
+  },
+  "48": {
+    "constraints": []
+  },
+  "50": {
+    "constraints": []
+  },
+  "51": {
+    "constraints": []
+  },
+  "52": {
+    "constraints": []
+  },
+  "53": {
+    "constraints": []
+  },
+  "54": {
+    "constraints": [
+      {
+        "exactly": {
+          "fd": 0
+        }
+      }
+    ]
+  },
+  "55": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 11
+        }
+      }
+    ]
+  },
+  "56": {
+    "constraints": []
+  },
+  "57": {
+    "constraints": []
+  },
+  "59": {
+    "constraints": [
+      {
+        "exactly": {
+          "fd": 0,
+          "rt": 0
+        }
+      }
+    ]
+  },
+  "58": {
+    "constraints": [
+      {
+        "exactly": {
+          "lt": 0
+        }
+      }
+    ]
+  },
+  "60": {
+    "constraints": []
+  },
+  "61": {
+    "constraints": []
+  },
+  "62": {
+    "constraints": []
+  },
+  "63": {
+    "constraints": []
+  },
+  "64": {
+    "constraints": []
+  },
+  "65": {
+    "constraints": [
+      {
+        "at_most": {
+        }
+      }
+    ]
+  },
+  "66": {
+    "constraints": []
+  },
+  "67": {
+    "constraints": []
+  },
+  "70": {
+    "constraints": []
+  },
+  "71": {
+    "constraints": []
+  },
+  "72": {
+    "constraints": []
+  },
+  "73": {
+    "constraints": []
+  },
+  "80": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 2
+        }
+      }
+    ]
+  },
+  "81": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 2
+        }
+      }
+    ]
+  },
+  "82": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 3
+        }
+      }
+    ]
+  },
+  "83": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 5
+        }
+      }
+    ]
+  },
+  "84": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 5
+        }
+      }
+    ]
+  },
+  "85": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 8
+        }
+      }
+    ]
+  },
+  "86": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 7
+        }
+      }
+    ]
+  },
+  "87": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 6
+        }
+      }
+    ]
+  },
+  "90": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 7
+        }
+      }
+    ]
+  },
+  "91": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 4
+        }
+      }
+    ]
+  },
+  "92": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 4
+        }
+      }
+    ]
+  },
+  "93": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 11
+        }
+      }
+    ]
+  },
+  "94": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 8
+        }
+      }
+    ]
+  },
+  "100": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 3
+        }
+      }
+    ]
+  },
+  "101": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 4
+        }
+      }
+    ]
+  },
+  "102": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 5
+        }
+      }
+    ]
+  },
+  "103": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 7
+        }
+      }
+    ]
+  },
+  "104": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 6
+        }
+      }
+    ]
+  },
+  "105": {
+    "constraints": [
+      {
+        "at_most": {
+          "all": 5
+        }
+      }
+    ]
+  },
+  "110": {
+    "constraints": [
+      {
+        "at_most": {
+        }
+      }
+    ]
+  },
+  "111": {
+    "constraints": []
+  },
+  "112": {
+    "constraints": []
+  },
+  "113": {
+    "constraints": []
+  },
+  "114": {
+    "constraints": []
+  },
+  "115": {
+    "constraints": []
+  },
+  "116": {
+    "constraints": []
+  },
+  "120a": {
+    "constraints": []
+  },
+  "120b": {
+    "constraints": []
+  },
+  "120c": {
+    "constraints": []
+  },
+  "121a": {
+    "constraints": []
+  },
+  "121b": {
+    "constraints": []
+  },
+  "121c": {
+    "constraints": []
+  },
+  "122a": {
+    "constraints": []
+  },
+  "122b": {
+    "constraints": []
+  },
+  "122c": {
+    "constraints": []
+  },
+  "123a": {
+    "constraints": []
+  },
+  "123b": {
+    "constraints": []
+  }
+}

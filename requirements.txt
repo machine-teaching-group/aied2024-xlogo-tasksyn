@@ -1,0 +1,9 @@
+networkx
+numpy<2.0.0
+pandas
+pillow==9.3.0
+sympy
+torch
+z3-solver
+zss
+tqdm
